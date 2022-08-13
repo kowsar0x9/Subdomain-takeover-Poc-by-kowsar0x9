@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/kowsar0x9/Subdomain-takeover-Poc-by-kowsar0x9/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Subdomain takeover
+## BY kowsar0x9
 ### Header 3
 
 - Bulleted
